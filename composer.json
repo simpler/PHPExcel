@@ -1,0 +1,9 @@
+{
+    "name": "PHPExcel/PHPExcel",
+    "autoload": {
+        "psr-0": {
+            "PHPExcel_": "Classes/",
+            "PHPExcel": "Classes/"
+        }
+    }
+}
